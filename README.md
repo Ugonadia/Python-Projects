@@ -1,2 +1,2 @@
 # Python-Projects
-A repository containing projects done in python
+A repository containing projects I have done using python
